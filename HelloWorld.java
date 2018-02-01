@@ -5,7 +5,7 @@ class HelloWorld {
 
 	public static void main (String[] args) {
 		System.out.println("Program to print Hello World\n");
-		System.out.println("Sanchayeni Balasubramanian");
+		System.out.println("-- created by Sanchayeni Balasubramanian");
 
 
 
